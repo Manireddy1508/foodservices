@@ -1,9 +1,9 @@
 # Foodservices
 
-##Description:
+## Description:
 This project is designed to carry out an Opportunities Analysis for the Sales Director in the Food Services Division of a major Food & Beverages Manufacturer. It involves examining data on total customer spending across various F&B categories, non-commercial establishments, such as hospitals and schools, and retail outlets located in different geographic regions.
 
-##Objectives:
+## Objectives:
 
 *Understand the share of total spending and F&B spending for current restaurant customers.
 
