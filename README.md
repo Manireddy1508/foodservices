@@ -13,7 +13,7 @@ This project is designed to carry out an Opportunities Analysis for the Sales Di
 
 *Provide simple, intuitive analyses that clearly show opportunities across different levels of geographic detail and business segments.
 
-##Contents:
+## Contents:
 
 1)**Data**: Includes the datasets provided for the analysis.
 
